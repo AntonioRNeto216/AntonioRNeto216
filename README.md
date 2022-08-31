@@ -1,7 +1,7 @@
 ### Hi, I'm Antonio Rola Neto 👋
 
 - 📚 I’m currently studying computer engineering at Federal University of Itajubá (UNIFEI)
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning ROS 2
 
 <div>
   <a href="https://github.com/AntonioRNeto216">
@@ -10,12 +10,12 @@
 </div>
 
 <div style="display: inline_block"><br>
- <img align="center" alt="Antonio-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+ <!--<img align="center" alt="Antonio-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">-->
  <img align="center" alt="Antonio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  <img align="center" alt="Antonio-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
  <img align="center" alt="Antonio-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
  <img align="center" alt="Antonio-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
- <img align="center" alt="Antonio-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+ <!-- <img align="center" alt="Antonio-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> -->
 </div>
 <hr/>
 
